@@ -30,6 +30,7 @@ gerçek projelerde kullanılabilecek sağlam bir temel sunmaktır.
 ---
 
 ## 📁 Proje Yapısı
+
 JwtAuthDemo
 │
 ├── Controllers
